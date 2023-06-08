@@ -1,7 +1,9 @@
 # bonjour 🐻‍❄️
 
 I'm currently working at [Liferay](https://www.liferay.com/).
+
 I like open source stuff.
+
 I like helping others.
 
 Because of all of the above, you'll find many repositories to help Liferay developers.
