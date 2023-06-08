@@ -11,6 +11,7 @@ Because of all of the above, you'll find many repositories to help Liferay devel
 [![Liferay Cloud Upgrade Action Card](https://github-readme-stats.vercel.app/api/pin/?username=lgdd&repo=liferay-cloud-upgrade-action&theme=transparent)](https://github.com/lgdd/liferay-cloud-upgrade-action)
 [![Liferay Starter Card](https://github-readme-stats.vercel.app/api/pin/?username=lgdd&repo=liferay-starter&theme=transparent)](https://github.com/lgdd/liferay-starter)
 [![Liferay Healthcheck Card](https://github-readme-stats.vercel.app/api/pin/?username=lgdd&repo=liferay-healthcheck&theme=transparent)](https://github.com/lgdd/liferay-healtcheck)
+[![Liferay Product Info Card](https://github-readme-stats.vercel.app/api/pin/?username=lgdd&repo=liferay-product-info&theme=transparent)](https://github.com/lgdd/liferay-product-info)
 
 ---
 
