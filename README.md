@@ -1,6 +1,6 @@
 # bonjour 🐻‍❄️
 
-I used work at [Liferay](https://www.liferay.com/). I like open source stuff. I like to help.
+I used to work at [Liferay](https://www.liferay.com/). I like open source stuff. I like to help.
 
 Because of all of the above, you'll find many repositories to help Liferay developers.
 
