@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Louis-Guillaume Durand's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 222, Total Commits  (last year) : 115, Total PRs: 97, Total Issues: 35, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 223, Total Commits  (last year) : 183, Total PRs: 98, Total Issues: 35, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.18078998541368;
+        stroke-dashoffset: 87.6460753661458;
       }
     }
   
@@ -148,7 +148,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >222</text>
+      >223</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >115</text>
+      >183</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -178,7 +178,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >97</text>
+      >98</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
