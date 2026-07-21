@@ -126,7 +126,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 68.03%
+        Java 68.02%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
@@ -140,7 +140,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 8.49%
+        TypeScript 8.52%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
@@ -165,8 +165,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="68.04"
-          d="M 65.33265668889999 140.66521934622764 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="68.01"
+          d="M 65.37798406450887 140.76193898399538 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#b07219"
           fill="none"
           stroke-width="12">
@@ -177,7 +177,7 @@
         <path
           data-testid="lang-donut"
           size="13.44"
-          d="M 64.63233160474552 94.22699006973609 A 56.66666666666667 56.66666666666667 0 0 0 65.33265668889999 140.66521934622764"
+          d="M 64.5901262763728 94.32511228723276 A 56.66666666666667 56.66666666666667 0 0 0 65.37798406450887 140.76193898399538"
           stroke="#f1e05a"
           fill="none"
           stroke-width="12">
@@ -187,8 +187,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="8.49"
-          d="M 83.272480464133 70.88523550749886 A 56.66666666666667 56.66666666666667 0 0 0 64.63233160474552 94.22699006973609"
+          size="8.52"
+          d="M 83.272480464133 70.88523550749886 A 56.66666666666667 56.66666666666667 0 0 0 64.5901262763728 94.32511228723276"
           stroke="#3178c6"
           fill="none"
           stroke-width="12">
